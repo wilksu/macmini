@@ -66,3 +66,4 @@ def send_email2(SMTP_host, from_account, from_passwd, to_account, subject, conte
 if __name__ == '__main__':
     # sendEmail()
     print(content)
+    
